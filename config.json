@@ -1,6 +1,6 @@
 {
-    "from": "/Users/Roy/work_code/skylar6:ETA_dev",
-    "to": "/Users/Roy/work_code/eta/server_web:develop",
-    "since": "13",
-    "author": "zhangkaihao"
+    "from": "<your-from-path>:<branch>",
+    "to": "<your-to-path>:<branch>",
+    "since": "<days>",
+    "author": "<your-git-name>"
 }
