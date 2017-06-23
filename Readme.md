@@ -8,5 +8,5 @@
 |:---:|:-------:|:---:|:---:|
 | from | no | project | yes |
 | author| no | who commit | yes|
-| to | no | who commit | yes|
+| to | no | where | yes|
 | since | 3 days | log days ago | no |
